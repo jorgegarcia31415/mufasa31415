@@ -40,7 +40,8 @@ El sitio web está enfocado en la **venta de perfumes** y está conectado a una 
 
 ## Documentación
 
-El funcionamiento y el código del sitio web están explicados en el documento PDF **DOCUMENTACION** que se encuentra anexado a los archivos del proyecto.
+El funcionamiento y el código del sitio web están explicados en el documento PDF **DOCUMENTACION** que se encuentra anexado a los archivos del proyecto.  
+[Ver DOCUMENTACION.pdf](./DOCUMENTACION.pdf)
 
 ---
 
